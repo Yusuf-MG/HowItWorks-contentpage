@@ -1,0 +1,61 @@
+.row-title {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 60px;
+    font-weight: bold;
+    color: #247491;
+}
+.para {
+    font-size: 20px;
+    max-width: 400px;
+}
+.how-img {
+    min-width: 400px;
+    max-width: 400px;
+}
+
+.col-title {
+    color: #247491;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+}
+
+.row-content {
+    padding-bottom: 50px;
+}
+
+.left-col {
+    left: 14.7rem;
+}
+
+.last-row {
+    padding-top: 120px;
+}
+
+.signup-img {
+    max-height: 120px;
+    max-width: 100px;
+    position: relative;
+    left: 11.2rem;
+    bottom: 5rem;
+}
+
+.bskt-img{
+    max-height: 120px;
+    max-width: 125px;
+    position: relative;
+    left: 11.8rem;
+    bottom: 5rem;
+}
+
+.how-btn {
+    align-items: center;
+    right: 5rem;
+}
+
+.col-left {
+    left: 9.4rem;
+    bottom: 0.14rem;
+}
